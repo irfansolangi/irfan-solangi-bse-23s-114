@@ -1,15 +1,15 @@
 
 Welcome to My Blog!
 
-Hello, readers! My name is Safiullah, and I'm excited to share a bit about myself in this blog post. I'm a student of software engineer. Let me tell you a little more about me:
+Hello, readers! My name is irfan solangi, and I'm excited to share a bit about myself in this blog post. I'm a student of software engineer. Let me tell you a little more about me:
 ## Personal Information
 
-- *Name:* irfan silangi
-- *Age:* 18
+- *Name:* irfan solangi
+- *Age:* 19
 - *Location:* Karachi, sindh, Pakistan
 
 ## Education
-I am curruntly the student of software engineer and i complete my hsc degree in the field of engineering.
+I am curruntly the student of software engineer and i complete my hsc degree in the field of pre medical.
 
 ## Hobbies and Interests
 
